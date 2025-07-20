@@ -41,49 +41,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lesson4Homework.executor": "Run",
-    "Python.Lesson4NestedStructuresTask1.executor": "Run",
-    "Python.Lesson4NestedStructurestask2.executor": "Run",
-    "Python.Lesson4Task2.executor": "Run",
-    "Python.Lesson4Task3.executor": "Run",
-    "Python.Lesson4Task4.executor": "Run",
-    "Python.Lesson4Task5.executor": "Run",
-    "Python.Lesson4Task6.executor": "Run",
-    "Python.Lesson4Task7.executor": "Run",
-    "Python.Lesson4Task8.executor": "Run",
-    "Python.Lesson4Task9.executor": "Run",
-    "Python.Task 1.executor": "Run",
-    "Python.Task 2.executor": "Run",
-    "Python.Task1.executor": "Run",
-    "Python.Task10.executor": "Run",
-    "Python.Task11.executor": "Run",
-    "Python.Task12.executor": "Run",
-    "Python.Task13.executor": "Run",
-    "Python.Task14.executor": "Run",
-    "Python.Task15.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task3.executor": "Run",
-    "Python.Task4.executor": "Run",
-    "Python.Task5.executor": "Run",
-    "Python.Task6.executor": "Run",
-    "Python.Task7.executor": "Run",
-    "Python.Task8.executor": "Run",
-    "Python.Task9.executor": "Run",
-    "Python.frfrf.executor": "Run",
-    "Python.lesson 5.executor": "Run",
-    "Python.lesson 6.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/anastasiamarinec/PycharmProjects/PythonDeveloperTMS",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lesson4Homework.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4NestedStructuresTask1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4NestedStructurestask2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4Task7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4Task8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4Task9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frfrf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anastasiamarinec/PycharmProjects/PythonDeveloperTMS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Homework 5-6" />
@@ -104,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework15/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753039745892</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework4">
+      <option name="closed" value="true" />
+      <created>1753040003039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753040003039</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
