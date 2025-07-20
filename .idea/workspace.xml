@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326dac70-242a-4843-919b-96deab04d372" name="Changes" comment="Homework4" />
+    <list default="true" id="326dac70-242a-4843-919b-96deab04d372" name="Changes" comment="Homework4">
+      <change afterPath="$PROJECT_DIR$/Homework14/sqt_query.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework15/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework14/diagram.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2u54atRd1x3jsy6cbO1Y9BVC7ZA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -86,6 +91,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homework15" />
       <recent name="$PROJECT_DIR$/Homework 5-6" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -146,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753040003039</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework4">
+      <option name="closed" value="true" />
+      <created>1753040229011</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753040229011</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
